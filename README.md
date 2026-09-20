@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is sondagar niral, i am salesforce developer.<br>i am currently working in digital marketing and customer reletionship management.<br>i had handful experiences on full stack frameworks like django, laravel and node JS in developing web applications<br>i also worked on application development using java and swift.<br>
+Hi my name is sondagar niral, i am salesforce developer.<br>i am currently working in customer reletionship management, marketing and data analytics at salesforce.<br>i had handful experiences on full stack frameworks like django, laravel and node JS in developing web applications<br>i also worked on application development using java and swift.<br>
 
 
 ## 🌐 Socials:
